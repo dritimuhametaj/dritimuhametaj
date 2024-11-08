@@ -1,1 +1,19 @@
-<
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Dune Cover</title>
+    <link rel="stylesheet" href="cover.css"> 
+</head>
+<body>
+   <div class="container">
+  <div class="content">
+    <img src="https://res.cloudinary.com/dxiwysn1u/image/upload/v1684783896/book-cover/x0wbx9vbjduzwpgaaa9g.jpg" alt="Dune" />
+  </div>
+</div>
+
+<a href="https://www.behance.net/gallery/105957829/DUNE-COVER-VARIATIONS/modules/608047405"> PËRSHËNDETJE </a>
+    
+</body>
+</html>
